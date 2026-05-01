@@ -97,23 +97,15 @@ The prompt is **explicit about its scope** in the Product-Context rule it genera
 
 The prompt is **stack-agnostic by design**. It reads your code and adapts.
 
-## Examples
-
-See real outputs from running this prompt on different projects:
-
-- [Sample output: Node.js/TypeScript backend](./EXAMPLES/sample-output-backend.md)
-- [Sample output: Next.js frontend](./EXAMPLES/sample-output-frontend.md)
-- [Before/After comparison](./EXAMPLES/before-after.md)
-
 ## Building in Public
 
 This prompt was born from a real project — **JUNIVERSO**, a legal templates platform I'm building with my wife.
 
 I'm documenting the entire process publicly:
 
-- 📺 [YouTube channel](https://youtube.com/@your-handle)
-- 💼 [LinkedIn](https://linkedin.com/in/your-handle)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
+- 📺 [YouTube channel](https://www.youtube.com/@KukharVitalii)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitalii-kukhar/)
+- 🐦 [Telegram](https://t.me/code_to_product)
 
 If this prompt helps you ship something — let me know. Especially interested in cases where it didn't work as expected.
 
